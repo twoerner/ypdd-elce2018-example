@@ -9,6 +9,7 @@
 int
 main (void)
 {
+	/* a meaningful comment */
 	printf("Hello, world!\n");
 	lib_function();
 
